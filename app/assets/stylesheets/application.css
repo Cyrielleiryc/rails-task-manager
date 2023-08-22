@@ -13,3 +13,21 @@
  *= require_tree .
  *= require_self
  */
+a {
+  text-decoration: none !important;
+  color: rgb(0, 153, 255) !important;
+}
+
+a:hover {
+  color: rgb(0, 17, 255) !important;
+}
+
+.footer {
+  border-top: 1px solid rgba(0,0,0,0.2);
+  padding-top: 15px;
+  margin-top: 15px;
+}
+
+li {
+  line-height: 30px;
+}
